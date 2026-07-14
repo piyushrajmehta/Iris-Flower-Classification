@@ -22,6 +22,15 @@ This project demonstrates a complete machine learning pipeline using Python and 
 2. Ensure you have the required libraries installed (`pip install pandas matplotlib seaborn scikit-learn`).
 3. Run the script and upload your dataset when prompted. 
 
+## Graphical Output 
+1. DATA VISUALIZATION
+
+<img width="935" height="851" alt="Screenshot 2026-07-14 at 11 02 20 AM" src="https://github.com/user-attachments/assets/1ac96f99-b3e6-4a0f-a349-c37e9aa98752" />
+
+2. CONFUSION MATRIX
+
+<img width="644" height="527" alt="Screenshot 2026-07-14 at 11 03 08 AM" src="https://github.com/user-attachments/assets/94c6b6fe-7c5a-43d2-8af2-c3626db9d490" />
+
 ---
 **PIYUSH RAJ** 
 *Aspiring Data Analyst / Data Scientist*
